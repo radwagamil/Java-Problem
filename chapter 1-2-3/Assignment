@@ -1,0 +1,21 @@
+1.1
+
+1- statement: is a command that the programmer gives to the computer to execute it.
+comment: is used to document the program and remind programmers of what tricky things they just did with the code.
+2-a program is portable means that it can work on any type of operating systems.
+3-compile is: to put together (documents, selections, or other materials) in one book or work.
+4-executable:  to execute a program is to run the program in the computer
+
+1.2
+
+1- System.out.println("hello world");
+2- System.out.println("hoe are you?");
+3- //line comment
+   /* paragraph
+      comment */
+   /**documentaion comment**/  
+   
+   
+ 3.1
+
+
